@@ -1,5 +1,5 @@
 import googleapiclient.discovery
-#from google.api_core.client_options import ClientOptions
+from google.api_core.client_options import ClientOptions
 import numpy as np
 #import os
 
